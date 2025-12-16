@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=El-Diablo by provasish
+kernel.string=phoeniX Kernel by Ryuk
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX3371
-device.name2=RE54E4L1
-device.name3=spartan
+device.name2=RMX3370
+device.name3=
 device.name4=
 device.name5=
 supported.versions=
