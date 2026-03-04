@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=phoeniX Kernel by Ryuk
+kernel.string=Entropy Kernel by Ryuk
 do.devicecheck=1
 do.modules=0
 do.systemless=1
